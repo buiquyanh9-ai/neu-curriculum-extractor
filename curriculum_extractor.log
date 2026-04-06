@@ -1,0 +1,76 @@
+11:04:04 [INFO] Tìm thấy 72 file .docx tại syllabus/courses-raw/curriculum/
+11:04:04 [INFO] Input:  syllabus/courses-raw/curriculum/
+         Output: syllabus/courses-raw/qbcur/
+         Files:  72 | workers=4
+11:04:09 [INFO] [✓] 7340116         | TC=130.0 | PLO=19 | HP= 47 | score=100 | CTĐT ngành Bất động sản.docx
+11:04:10 [INFO] [✓] 7340204         | TC=130.0 | PLO=20 | HP= 48 | score=100 | CTĐT ngành Bảo hiểm.docx
+11:04:10 [INFO] [✓] 7480202         | TC=130.0 | PLO=12 | HP= 48 | score=100 | CTĐT ngành An toàn thông tin.docx
+11:04:11 [INFO] [✓] 7460108         | TC=150.0 | PLO=13 | HP= 61 | score=100 | CTĐT ngành Công nghệ Logistics (Kỹ sư).docx
+11:04:15 [INFO] [✓] 7480201         | TC=130.0 | PLO=12 | HP= 48 | score=100 | CTĐT ngành Công nghệ thông tin.docx
+11:04:15 [INFO] [✓] 7340115         | TC=130.0 | PLO=10 | HP= 53 | score=100 | CTĐT ngành Công nghệ Marketing.docx
+11:04:15 [INFO] [✓] 7340201         | TC=130.0 | PLO=16 | HP= 50 | score=100 | CTĐT ngành Công nghệ tài chính và Ngân hàng số.docx
+11:04:16 [INFO] [✓] 7310101         | TC=130.0 | PLO=13 | HP= 48 | score=100 | CTĐT ngành Công nghệ môi trường và phát triển bền vững.
+11:04:18 [INFO] [✓] 7340405         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Hệ thống thông tin quản lý.docx
+11:04:19 [INFO] [✓] 7480104         | TC=130.0 | PLO=14 | HP= 48 | score=100 | CTĐT ngành Hệ thống thông tin.docx
+11:04:19 [INFO] [✓] 7340205         | TC=130.0 | PLO=13 | HP= 48 | score=100 | CTĐT ngành Công nghệ tài chính.docx
+11:04:21 [INFO] [✓] 7460112         | TC=130.0 | PLO=15 | HP= 49 | score=100 | CTĐT ngành Cử nhân Toán ứng dụng.docx
+11:04:21 [INFO] [✓] 7480101         | TC=130.0 | PLO=12 | HP= 48 | score=100 | CTĐT ngành Khoa học máy tính.docx
+11:04:23 [INFO] [✓] 7310401         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Khoa học quản lý.docx
+11:04:24 [INFO] [✓] 7310108         | TC=130.0 | PLO=15 | HP= 49 | score=100 | CTĐT ngành Khoa học tính toán trong Tài chính và Bảo hi
+11:04:24 [INFO] [✓] 7620114         | TC=130.0 | PLO=18 | HP= 48 | score=100 | CTĐT ngành Kinh doanh nông nghiệp.docx
+11:04:24 [INFO] [✓] 7340120         | TC=130.0 | PLO=17 | HP= 48 | score=100 | CTĐT ngành Kinh doanh quốc tế.docx
+11:04:25 [INFO] [✓] 7340121         | TC=130.0 | PLO=13 | HP= 49 | score=100 | CTĐT ngành Kinh doanh thương mại.docx
+11:04:25 [INFO] [✓] 7310101         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Kinh tế  và Quản lý nguồn nhân lực.docx
+11:04:25 [INFO] [✓] 7310101         | TC=123.0 | PLO=12 | HP= 50 | score=100 | CTĐT ngành Kinh tế học tài chính_FE.docx
+11:04:26 [INFO] [✓] 7310101         | TC=130.0 | PLO=14 | HP= 48 | score=100 | CTĐT ngành Kinh tế Y tế.docx
+11:04:27 [INFO] [✓] 7310105         | TC=130.0 | PLO=17 | HP= 49 | score=100 | CTĐT ngành Kinh tế phát triển.docx
+11:04:27 [INFO] [✓] 7310101         | TC=130.0 | PLO=14 | HP= 48 | score=100 | CTĐT ngành Kinh tế học.docx
+11:04:27 [INFO] [✓] 7620115         | TC=130.0 | PLO=18 | HP= 48 | score=100 | CTĐT ngành Kinh tế nông nghiệp.docx
+11:04:28 [INFO] [✓] 7310106         | TC=130.0 | PLO=15 | HP= 47 | score=100 | CTĐT ngành Kinh tế quốc tế tiếng Anh.docx
+11:04:29 [INFO] [✓] 7850102         | TC=130.0 | PLO=18 | HP= 48 | score=100 | CTĐT ngành Kinh tế tài nguyên thiên nhiên.docx
+11:04:29 [INFO] [✓] 7310106         | TC=130.0 | PLO=18 | HP= 48 | score=100 | CTĐT ngành Kinh tế quốc tế.docx
+11:04:29 [INFO] [✓] 7310109         | TC=130.0 | PLO=14 | HP= 55 | score=100 | CTĐT ngành Kinh tế số.docx
+11:04:30 [INFO] [✓] 7310101         | TC=130.0 | PLO=13 | HP= 50 | score=100 | CTĐT ngành Kinh tế và quản lý đô thị.docx
+11:04:31 [INFO] [✓] 7310104         | TC=130.0 | PLO=17 | HP= 48 | score=100 | CTĐT ngành Kinh tế đầu tư.docx
+11:04:31 [INFO] [✓] 7340302         | TC=130.0 | PLO=15 | HP= 48 | score=100 | CTĐT ngành Kiểm toán.docx
+11:04:31 [INFO] [✓] 7340302         | TC=130.0 | PLO=17 | HP= 50 | score=100 | CTĐT ngành Kiểm toán nội bộ.docx
+11:04:32 [INFO] [✓] 7340301         | TC=123.0 | PLO=11 | HP= 53 | score=100 | CTĐT ngành Kế toán tích hợp chứng chỉ quốc tế ACT_ICAEW
+11:04:32 [INFO] [✓] 7340301         | TC=130.0 | PLO=15 | HP= 48 | score=100 | CTĐT ngành Kế toán.docx
+11:04:33 [INFO] [✓] 7510605         | TC=132.0 | PLO=11 | HP= 51 | score=100 | CTĐT ngành Logistics và QLCCU_LSIC.docx
+11:04:33 [INFO] [✓] 7480103         | TC=130.0 | PLO=12 | HP= 48 | score=100 | CTĐT ngành Kỹ thuật phần mềm.docx
+11:04:33 [INFO] [✓] 7460112         | TC=150.0 | PLO=15 | HP= 55 | score=100 | CTĐT ngành Kỹ sư Toán ứng dụng.docx
+11:04:33 [INFO] [✓] 7510605         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Logistics và quản lý chuỗi cung ứng.docx
+11:04:34 [INFO] [✓] 7380107         | TC=130.0 | PLO=18 | HP= 48 | score=100 | CTĐT ngành Luật kinh tế.docx
+11:04:34 [INFO] [✓] 7380109         | TC=130.0 | PLO=13 | HP= 49 | score=100 | CTĐT ngành Luật thương mại quốc tế.docx
+11:04:34 [INFO] [✓] 7380101         | TC=130.0 | PLO=12 | HP= 48 | score=100 | CTĐT ngành Luật.docx
+11:04:35 [INFO] [✓] 7340115         | TC=130.0 | PLO=13 | HP= 48 | score=100 | CTĐT ngành Marketing.docx
+11:04:35 [INFO] [✓] 7310108         | TC=125.0 | PLO=12 | HP= 51 | score=100 | CTĐT ngành Phân tích dữ liệu kinh tế_EDA.docx
+11:04:36 [INFO] [✓] 7340101         | TC=145.0 | PLO=18 | HP= 61 | score=100 | CTĐT ngành Ngôn ngữ Anh.docx
+11:04:36 [INFO] [✓] 7310105         | TC=130.0 | PLO=17 | HP= 50 | score=100 | CTĐT ngành Phát triển quốc tế.docx
+11:04:36 [INFO] [✓] 7320108         | TC=130.0 | PLO=13 | HP= 48 | score=100 | CTĐT ngành Quan hệ công chúng.docx
+11:04:36 [INFO] [✓] 7340408         | TC=130.0 | PLO=15 | HP= 48 | score=100 | CTĐT ngành Quan hệ lao động.docx
+11:04:37 [INFO] [✓] 7310101         | TC=131.0 | PLO=12 | HP= 62 | score=100 | CTĐT ngành Quản lý công và chính sách_EPMP.docx
+11:04:37 [INFO] [✓] 7340409         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Quản lý dự án.docx
+11:04:38 [INFO] [✓] 7850101         | TC=130.0 | PLO=15 | HP= 48 | score=100 | CTĐT ngành Quản lý tài nguyên và môi trường.docx
+11:04:38 [INFO] [✓] 7340403         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Quản lý công.docx
+11:04:39 [INFO] [✓] 7340101         | TC=129.0 | PLO=15 | HP= 61 | score=100 | CTĐT ngành Quản trị chất lượng và đổi mới_EMQI.docx
+11:04:39 [INFO] [✓] 7850103         | TC=130.0 | PLO=17 | HP= 48 | score=100 | CTĐT ngành Quản lý đất đai.docx
+11:04:39 [INFO] [✓] 7810103         | TC=130.0 | PLO=17 | HP= 48 | score=100 | CTĐT ngành Quản trị dịch vụ du lịch và lữ hành.docx
+11:04:40 [INFO] [✓] 7810101         | TC=130.0 | PLO=19 | HP= 47 | score=100 | CTĐT ngành Quản trị công nghiệp sáng tạo.docx
+11:04:41 [INFO] [✓] 7810101         | TC=130.0 | PLO=17 | HP= 51 | score=100 | CTĐT ngành Quản trị giải trí và sự kiện.docx
+11:04:41 [INFO] [✓] 7810201         | TC=130.0 | PLO=19 | HP= 43 | score=100 | CTĐT ngành Quản trị khách sạn quốc tế_IHME.docx
+11:04:41 [INFO] [✓] 7810201         | TC=130.0 | PLO=17 | HP= 47 | score=100 | CTĐT ngành Quản trị khách sạn.docx
+11:04:42 [INFO] [✓] 7340101         | TC=130.0 | PLO=15 | HP= 48 | score=100 | CTĐT ngành Quản trị kinh doanh.docx
+11:04:42 [INFO] [✓] 7340101         | TC=129.0 | PLO=11 | HP= 53 | score=100 | CTĐT ngành Quản trị kinh doanh_EBBA.docx
+11:04:42 [INFO] [✓] 7340404         | TC=130.0 | PLO=17 | HP= 48 | score=100 | CTĐT ngành Quản trị nhân lực.docx
+11:04:43 [INFO] [✓] 7340404         | TC=130.0 | PLO=16 | HP= 50 | score=100 | CTĐT ngành Quản trị nhân lực quốc tế.docx
+11:04:44 [INFO] [✓] 7340122         | TC=130.0 | PLO=16 | HP= 48 | score=100 | CTĐT ngành Thương mại điện tử.docx
+11:04:44 [INFO] [✓] 7310108         | TC=130.0 | PLO=15 | HP= 49 | score=100 | CTĐT ngành Quản trị rủi ro định lượng.docx
+11:04:44 [INFO] [✓] 7340101         | TC=130.0 | PLO=20 | HP= 50 | score=100 | CTĐT ngành Quản trị điều hành thông minh_ESOM.docx
+11:04:44 [INFO] [✓] 7340201         | TC=130.0 | PLO=13 | HP= 50 | score=100 | CTĐT ngành Thẩm định giá.docx
+11:04:45 [INFO] [✓] 7310107         | TC=130.0 | PLO=14 | HP= 48 | score=100 | CTĐT ngành Thống kê kinh tế.docx
+11:04:46 [INFO] [✓] 7310108         | TC=130.0 | PLO=15 | HP= 48 | score=100 | CTĐT ngành Toán kinh tế.docx
+11:04:46 [INFO] [✓] 7310107         | TC=130.0 | PLO=14 | HP= 53 | score=100 | CTĐT ngành Thống kê và Trí tuệ Kinh doanh.docx
+11:04:46 [INFO] [✓] 7480107         | TC=130.0 | PLO=12 | HP= 50 | score=100 | CTĐT ngành Trí tuệ nhân tạo.docx
+11:04:46 [INFO] [✓] 7340201         | TC=129.0 | PLO=11 | HP= 47 | score=100 | CTĐT ngành Tài chính và Đầu tư_BFI.docx
+11:04:46 [INFO] [✓] 7340201         | TC=130.0 | PLO=17 | HP= 48 | score=100 | CTĐT ngành Tài chính Ngân hàng.docx
